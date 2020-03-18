@@ -1,0 +1,7 @@
+git clone https://github.com/Linkor-35/nn_category_predict.git
+git status
+
+git remote add origin https://github.com/Linkor-35/nn_category_predict.git
+
+git commit -m "==="
+git push origin master 
